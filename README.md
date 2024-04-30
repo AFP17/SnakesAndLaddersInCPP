@@ -24,14 +24,13 @@ git clone https://github.com/AFP17/SnakesAndLaddersInCPP.git
 ```
 2. Navigate to the project directory
 ```
-cd snake-ladder
+cd SnakesAndLaddersInCPP
 ```
 3. Compile the project
 ```
-g++ -std=c++11 -o snake_ladder main.cpp hello_world.cpp
+g++ main.cpp -o snake_ladder
 ```
 4. Run the game
 ```
 ./snake_ladder
 ```
-# SnakesAndLaddersInCPP
